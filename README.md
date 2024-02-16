@@ -1,4 +1,4 @@
 # Hypothesis-Testing
 
-<img src="Hypothesis_Tests.JPG" alt="Gradient Descent" width="400">
+<img src="Hypothesis_Tests.jpg" alt="Test selection rules" width="400">
 
