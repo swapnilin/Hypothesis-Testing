@@ -8,4 +8,4 @@ Selecting the appropriate tests for hypothesis testing
 
 Critical T-values
 
-<img src="Critical_t-values.jpg" alt="Crtical T-values" width="400">
+<img src="Critical_t-values.png" alt="Crtical T-values" width="400">
